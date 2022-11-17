@@ -436,3 +436,5 @@ let a: Int = Int(readLine()!)!
 print(a*3)
 
 var b = "asdasd"
+
+var c = "add"
