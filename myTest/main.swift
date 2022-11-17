@@ -438,3 +438,5 @@ print(a*3)
 var b = "asdasd"
 
 var c = "add"
+
+var d = "asdasdasdasdasd"
